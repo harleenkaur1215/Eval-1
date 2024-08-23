@@ -131,4 +131,20 @@ body{
 .checkbox-container {
   display: flex;
   align-items: center;
+  margin-bottom: 10px;
 }
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.checkbox-label {
+  font-size: 14px;
+}
+
+.powered-by {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+}
+
