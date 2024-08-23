@@ -1,65 +1,112 @@
-.hi{
-    background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-01.jpg");
-    height: 800px;
-    margin-top:15px;
-    width: 100%;
-    display: inline-block;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-bottom-right-radius: 100% 40%;
-    border-bottom-left-radius: 1% 1%;
-    background-position:center;
+.hi {
+  background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-01.jpg");
+  height: 800px;
+  margin-top: 15px;
+  width: 100%;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-bottom-right-radius: 100% 40%;
+  border-bottom-left-radius: 1% 1%;
+  background-position: center;
 }
-.underhi{
-    color: aliceblue;
-    margin-top:220px ;
-    margin-left:100px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-    .button1{
-        background-color: rgb(212, 146, 66);
-        border-radius: 40px;
-        color: aliceblue;
-        padding: 22px;
-        font-size:3.2vh;
-        width:232px;
-        border: none;
-        opacity: 0.9;
-        
-    }
-  .button1:hover{
-    background-color: rgb(173, 113, 40);
-    border-color: rgb(173, 113, 40);
-  }
-  .button2{
-    border: none;
-   background-color: rgb(128, 125, 125);
-   border-radius:40px;
-   color: aliceblue;
-   padding: 22px;
-    font-size:3.2vh;
-    width:232px;
-    opacity: 0.8;
-  }
-  .button2:hover{
-    background-color: rgb(212, 146, 66);
-    border-color: rgb(212, 146, 66);
-    opacity: 0.9;
-  }
 
-  .button3{
-    background-color: rgb(172, 120, 57);
-    border-radius: 40px;
-    color: aliceblue;
-    padding: 10px;
-    font-size:3vh;
-    width:120px;
-    border: none;
-    opacity: 0.7;
+.underhi {
+  color: aliceblue;
+  margin-top: 220px;
+  margin-left: 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button1 {
+  background-color: rgb(212, 146, 66);
+  border-radius: 40px;
+  color: aliceblue;
+  padding: 22px;
+  font-size: 3.2vh;
+  width: 232px;
+  border: none;
+  opacity: 0.9;
+}
+
+.button1:hover {
+  background-color: rgb(173, 113, 40);
+  border-color: rgb(173, 113, 40);
+}
+
+.button2 {
+  border: none;
+  background-color: rgb(128, 125, 125);
+  border-radius: 40px;
+  color: aliceblue;
+  padding: 22px;
+  font-size: 3.2vh;
+  width: 232px;
+  opacity: 0.8;
+}
+
+.button2:hover {
+  background-color: rgb(212, 146, 66);
+  border-color: rgb(212, 146, 66);
+  opacity: 0.9;
+}
+
+.button3 {
+  background-color: rgb(172, 120, 57);
+  border-radius: 40px;
+  color: aliceblue;
+  padding: 10px;
+  font-size: 3vh;
+  width: 120px;
+  border: none;
+  opacity: 0.7;
+}
+
+.button3:hover {
+  background-color: rgb(172, 120, 57);
+  opacity: 1;
+}
+
+.feat {
+  background-image: linear-gradient(to bottom, rgb(255, 255, 255) 2%, rgba(0, 0, 1, 0.201)), url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-03.jpg");
+  height: 1200px;
+  padding: 40px;
+  width: 100%;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-bottom-left-radius: 100% 30%;
+  border-bottom-right-radius: 1% 1%;
+  background-position: center;
+}
+
+.box {
+  width: 400px;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: left;
+  transition: transform 0.2s;
+  margin-left: 70px;
+}
+.button5:hover{
+  background-color: rgb(173, 113, 40);
+  border-color: rgb(173, 113, 40);
+  }
+  
+  input[type="text"]{
     
-}
-.button3:hover{
-    background-color: rgb(172, 120, 57);
-    opacity: 1;
-}
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #898787;
+      opacity: 0.7;
+  }
+  
+  input[type=text]{ 
+    width:440px;
+      border-radius:40px;
+  }
