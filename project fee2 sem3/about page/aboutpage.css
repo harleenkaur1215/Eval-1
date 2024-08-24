@@ -103,3 +103,19 @@
       border-radius: 10px;
       box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     }
+    .v{
+      width: 450px;
+      height: 60px;
+      background-color: white;
+      color: rgb(40, 41, 41);
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+    }
+.onlypic{
+      background-image: linear-gradient(to bottom, rgb(255, 255, 255) 2%, rgba(0, 0, 1, 0.201)), url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-11.jpg");
+      height: 550px;
+      width: 100%;
+      background-position:center;      
+}
