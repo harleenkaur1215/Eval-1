@@ -81,3 +81,25 @@
         background-color: white;
         z-index: 1;
     }
+    .volun1{
+      width: 800px;
+      height: 410px;
+      text-align: center;
+      background-color: rgb(187, 133, 70);
+      color: aliceblue;
+      padding: 40px;
+      margin-left: 230px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      
+    }
+
+    .vol{
+      width: 450px;
+      height: 240px;
+      background-color: rgba(24, 24, 24, 0.941);
+      color: aliceblue;
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
