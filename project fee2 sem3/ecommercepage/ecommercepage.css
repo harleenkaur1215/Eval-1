@@ -9,3 +9,29 @@
     text-align: center;
     
   }
+.h1{
+    margin-left: 18px;
+    margin-right: 10px;
+}
+
+.button4{
+    color:rgb(161, 108, 42);
+    padding: 12px;
+    font-size:3vh;
+    
+    border: none;
+    background-color:white;
+    
+}
+.button4:hover{
+    background-color: rgb(212, 158, 93);
+   color:white;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    
+  }
+  
