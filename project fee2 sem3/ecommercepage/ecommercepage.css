@@ -74,3 +74,14 @@
     
     
   }
+  .button5{
+    background-color: rgb(212, 146, 66);
+    border-radius: 40px;
+    color: aliceblue;
+    padding: 18px;
+    font-size:3vh;
+    width:440px;
+    border: none;
+    opacity: 0.8;
+    
+}
