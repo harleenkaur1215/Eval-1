@@ -9,3 +9,42 @@
     text-align: center;
     
   }
+.h1{
+    margin-left: 18px;
+    margin-right: 10px;
+}
+
+.button4{
+    color:rgb(161, 108, 42);
+    padding: 12px;
+    font-size:3vh;
+    
+    border: none;
+    background-color:white;
+    
+}
+.button4:hover{
+    background-color: rgb(212, 158, 93);
+   color:white;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    
+  }
+  
+  .box{
+    width: 270px;
+    height: 400px;
+    background-color: white;
+    border: 1px solid #ccc;
+    
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: center;
+    transition: transform .2s;
+    
+   margin: 0px 17px 20px 17px;
+  }
