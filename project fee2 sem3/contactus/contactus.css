@@ -1,26 +1,7 @@
 .aboutus{
-    background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-12-1.jpg");
-    height: 470px;
-    margin-top:58px;
+    background-image: url("https://www.ingridkuhn.com/themes/woof!/img/jumbotron.jpg");
+    height: 250px;
+    margin-top:92px;
     width: 100%;
     display: inline-block;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-bottom-right-radius: 100% 30%;
-    border-bottom-left-radius: 1% 1%;
-    background-position:center;
-    opacity: 0.87;
-}
-
-.button1{
-    background-color: rgb(212, 146, 66);
-    border-radius: 40px;
-    color: aliceblue;
-    padding: 20px;
-    font-size:3vh;
-    width:232px;
-    border: none;
-    opacity: 0.92;
-    
 }
