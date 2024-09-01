@@ -79,6 +79,9 @@ input[type="text"],input[type="email"], input[type=tel] {
       .button4{
         color:rgb(161, 108, 42);
         padding: 10px;
-       
+        font-size:3vh;
+        width:120px;
+        border: none;
+        background-color:white;
     }
     
