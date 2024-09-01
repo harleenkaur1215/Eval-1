@@ -4,7 +4,25 @@
     margin-top:92px;
     width: 100%;
     display: inline-block;
-    margin-top:92px;
-    width: 100%;
-    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position:center;
+    
+}
+
+.button1{
+    background-color: rgb(212, 146, 66);
+    border-radius: 40px;
+    color: aliceblue;
+    padding: 20px;
+    font-size:3vh;
+    width:232px;
+    border: none;
+    opacity: 0.92;
+    
+}
+.button1:hover{
+background-color: rgb(173, 113, 40);
+border-color: rgb(173, 113, 40);
 }
