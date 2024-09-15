@@ -154,3 +154,19 @@ body{
   vertical-align: middle;
   margin-right: 5px;
 }
+
+@media only screen and (max-width:780px) {
+  body{
+   
+    background-image: url("https://townsquare.media/site/33/files/2015/04/Golden-Retreiver-Puppy.jpg");
+        height: 100%;
+        
+        width: 100%;
+        display: inline-block;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        margin-top: 20px;
+        background-position:center;
+  
+  }}
