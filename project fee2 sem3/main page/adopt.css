@@ -1,7 +1,7 @@
 .hi{
   background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-01.jpg");
   height: 800px;
-  margin-top:15px;
+  /* margin-top:92px; */
   width: 100%;
   display: inline-block;
   background-size: cover;
@@ -9,7 +9,7 @@
   background-repeat: no-repeat;
   border-bottom-right-radius: 100% 40%;
   border-bottom-left-radius: 1% 1%;
-  background-position:center;
+  
 }
 .underhi{
   color: aliceblue;
@@ -184,3 +184,48 @@ input[type=text]{
 width:440px;
   border-radius:40px;
 }
+@media only screen and (max-width:390px) {
+.hi{
+  background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-01.jpg");
+  height: 800px;
+  margin-top:92px;
+  width: 100%;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-bottom-right-radius: 100% 40%;
+  border-bottom-left-radius: 1% 1%;
+  background-position:center;
+}
+}
+@media only screen and (max-width:470px) {
+.hi{
+  background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-01.jpg");
+  height: 800px;
+  margin-top:92px;
+  width: 100%;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-bottom-right-radius: 100% 40%;
+  border-bottom-left-radius: 1% 1%;
+  background-position:center;
+}
+
+}
+@media only screen and (max-width:712px) {
+.hi{
+  background-image: url("https://www.elegantthemes.com/layouts/wp-content/uploads/2018/06/pet-01.jpg");
+  height: 800px;
+  margin-top:92px;
+  width: 100%;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-bottom-right-radius: 100% 40%;
+  border-bottom-left-radius: 1% 1%;
+  background-position:center;
+}}
